@@ -1,16 +1,15 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Joke's Over
+image: /img/john-schnobrich-flpc9_vocj4-unsplash.jpg
+heading: Joke's Over
+subheading: We do mobile apps
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Why Joke's Over
+  description: >-
+    Joke's Over is a young Software House built by passionate people extremely
+    skilled at developing mobile apps. Our values are quality, reliability and
+    agility. We do what it takes to make you succeed.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -68,3 +67,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
